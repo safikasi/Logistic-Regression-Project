@@ -21,8 +21,4 @@ git clone https://github.com/safikasi/Logistic-Regression-Project.git
 cd Logistic-Regression-Project
 
 ## 🌐 Connect With Me
-<div align="center">
-https://img.shields.io/badge/-%25F0%259F%2592%25BB%2520GitHub-black?logo=github
-https://img.shields.io/badge/-%25F0%259F%2593%259D%2520LinkedIn-blue?logo=linkedin
-https://img.shields.io/badge/-%25F0%259F%2592%25BC%2520Portfolio-green
-</div>
+
