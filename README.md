@@ -17,6 +17,7 @@
 ## 🚀 Installation & Setup
 
 git clone https://github.com/safikasi/Logistic-Regression-Project.git
+---
 cd Logistic-Regression-Project
 
 ## 🌐 Connect With Me
