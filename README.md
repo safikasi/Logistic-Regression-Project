@@ -1,4 +1,4 @@
-# 🚀 Ad Click Predictor: Logistic Regression in VS Code
+# 🚀 Ad Click Predictor: Logistic Regression 
 
 ![Python](https://img.shields.io/badge/Python-%E2%9D%A4%EF%B8%8F%203.8%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%F0%9F%94%8E%201.2%2B-orange)
