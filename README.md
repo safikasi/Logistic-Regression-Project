@@ -21,4 +21,8 @@ git clone https://github.com/safikasi/Logistic-Regression-Project.git
 cd Logistic-Regression-Project
 
 ## 🌐 Connect With Me
+**Safwan Khan Kasi**  
+DS & ML Enthusiast   
 
+[![GitHub](https://img.shields.io/badge/GitHub-safikasi-blue?logo=github)](https://github.com/safikasi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Safwan_Kasi-blue?logo=linkedin)](https://www.linkedin.com/in/safwan-kasi-2b5358292/)
